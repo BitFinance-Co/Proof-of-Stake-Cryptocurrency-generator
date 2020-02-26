@@ -1,11 +1,16 @@
-# Proof-of-Stake-Cryptocurrency-generator ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg) [![Telegram](https://img.shields.io/badge/chat-Telegram-blue.svg)](https://t.me/coin_generator)
+# Proof-of-Stake-Cryptocurrency-generator 
+
+![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg) [![Telegram](https://img.shields.io/badge/chat-Telegram-blue.svg)](https://t.me/coin_generator)
+
 Create your own Proof of Stake cryptocurrency with its own blockchain based on "Nxt Blockchain Creation Kit".
 It should satisfy the requirements of the Jelurida Public License version 1.1 for the Nxt Public Blockchain Platform.
 Basically 10% of your tokens should be given to the owners of the Nxt Cryptocurrency. Furthermore, the source needs to be disclosed and under the same license. Keep in mind that this generator is not perfect!
+
 * Website: https://coingenerator.sh
 * Read the story: https://medium.com/learning-lab/how-to-build-your-own-cryptocurrency-proof-of-stake-in-just-a-few-minutes-6d526bca4a91
 
-This generator will assist you building your NXT clone.
+### This generator will assist you building your NXT clone.
+
 If you are an advanced user follow directly the official tutorial:
 * Nxt-clone-starter: https://bitbucket.org/Jelurida/nxt-clone-starter
 * Introduction to the NXT Blockchain Creation Kit: https://www.youtube.com/watch?v=6Wg3uv07GU4
@@ -90,10 +95,3 @@ Please ⭐️ this repository if this project helped you!
 
 <a href="https://www.patreon.com/sandoche">[![patreon.png](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/sandoche)</a>
 
-## Buy me a beer
-If you like this project, feel free to donate:
-* Bitcoin: 19JiNZ1LkMaz57tewqJaTg2hQWH4RgW4Yp
-* Ethereum: 0xded81fa4624e05339924355fe3504ba9587d5419
-* Monero: 43jqzMquW2q989UKSrB2YbeffhmJhbYb2Yxu289bv7pLRh4xVgMKj5yTd52iL6x1dvCYs9ERg5biHYxMjGkpSTs6S2jMyJn
-* Motive: MOTIV-25T5-SD65-V7LJ-BBWRD (Get Motive Now: https://motive.network)
-* Paypal: https://www.paypal.me/kanbanote
